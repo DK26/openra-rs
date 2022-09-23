@@ -7,3 +7,4 @@ A play/study project, attempting to implement the game engine from OpenRA in the
 - Playing OpenRA maps/missions
 - Supporting OpenRA assets: Maps, units, soundtrack, etc.
 - Basic playability
+- Dedicated server
